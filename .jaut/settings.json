@@ -29,7 +29,7 @@
     "createdAt": "2026-02-01T04:36:12.040Z",
     "updatedAt": "2026-03-20T11:26:12.934Z"
   },
-  "theme": "lavender",
+  "theme": "dark",
   "customThemes": [
     {
       "id": "jaut-brand",
@@ -156,8 +156,24 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:45:16.614Z",
+    "lastSyncedAt": "2026-03-21T22:46:10.004Z",
     "syncEvents": [
+      {
+        "id": "1774133377921-n02vqq",
+        "occurredAt": "2026-03-21T22:49:37.921Z",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed."
+      },
+      {
+        "id": "1774133170005-skdu10",
+        "occurredAt": "2026-03-21T22:46:10.005Z",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 2 changed files."
+      },
       {
         "id": "1774133116614-z7f2jw",
         "occurredAt": "2026-03-21T22:45:16.614Z",
@@ -341,22 +357,6 @@
         "outcome": "success",
         "detail": "Synced 1 changed file.",
         "occurredAt": "2026-03-21T22:21:05.180Z"
-      },
-      {
-        "id": "1774131624502-bl3fzx",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 2 changed files.",
-        "occurredAt": "2026-03-21T22:20:24.502Z"
-      },
-      {
-        "id": "1774131595743-chtmjd",
-        "action": "sync",
-        "trigger": "debounce",
-        "outcome": "success",
-        "detail": "Synced 1 changed file.",
-        "occurredAt": "2026-03-21T22:19:55.743Z"
       }
     ]
   }
