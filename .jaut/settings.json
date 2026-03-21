@@ -156,39 +156,55 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T21:20:35.833Z",
+    "lastSyncedAt": "2026-03-21T21:20:44.837Z",
     "syncEvents": [
       {
-        "id": "1774128037111-gahzjz",
-        "occurredAt": "2026-03-21T21:20:37.111Z",
-        "action": "refresh",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Remote state refreshed."
-      },
-      {
-        "id": "1774128035835-15pkm6",
-        "occurredAt": "2026-03-21T21:20:35.835Z",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 2 changed files."
-      },
-      {
-        "id": "1774127980338-85gkvt",
-        "occurredAt": "2026-03-21T21:19:40.338Z",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 1 changed file."
-      },
-      {
-        "id": "1774127970758-1wjvkv",
-        "occurredAt": "2026-03-21T21:19:30.758Z",
+        "id": "1774129392593-hzl5uq",
+        "occurredAt": "2026-03-21T21:43:12.593Z",
         "action": "refresh",
         "trigger": "startup",
         "outcome": "success",
         "detail": "Remote state refreshed on startup."
+      },
+      {
+        "id": "1774128044839-nryv5p",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T21:20:44.839Z"
+      },
+      {
+        "id": "1774128037111-gahzjz",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T21:20:37.111Z"
+      },
+      {
+        "id": "1774128035835-15pkm6",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T21:20:35.835Z"
+      },
+      {
+        "id": "1774127980338-85gkvt",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T21:19:40.338Z"
+      },
+      {
+        "id": "1774127970758-1wjvkv",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T21:19:30.758Z"
       },
       {
         "id": "1774127730426-yeqkon",
