@@ -156,6 +156,40 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T19:11:02.516Z"
+    "lastSyncedAt": "2026-03-21T20:05:59.505Z",
+    "syncEvents": [
+      {
+        "id": "1774124772651-pzxp10",
+        "occurredAt": "2026-03-21T20:26:12.651Z",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup."
+      },
+      {
+        "id": "1774124591564-93zfai",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "error",
+        "detail": "Could not find 2026/03/21/2026-03-21_15-08-17-831--test.md.",
+        "occurredAt": "2026-03-21T20:23:11.564Z"
+      },
+      {
+        "id": "1774124588374-lbwmtd",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "error",
+        "detail": "Could not find 2026/03/21/2026-03-21_15-08-17-831--test.md.",
+        "occurredAt": "2026-03-21T20:23:08.374Z"
+      },
+      {
+        "id": "1774124440116-k6dhmc",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T20:20:40.116Z"
+      }
+    ]
   }
 }
