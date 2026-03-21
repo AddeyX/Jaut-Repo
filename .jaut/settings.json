@@ -156,39 +156,79 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T21:05:45.635Z",
+    "lastSyncedAt": "2026-03-21T21:06:22.714Z",
     "syncEvents": [
       {
-        "id": "1774127145635-d515pd",
-        "occurredAt": "2026-03-21T21:05:45.635Z",
-        "action": "sync",
-        "trigger": "manual",
+        "id": "1774127970758-1wjvkv",
+        "occurredAt": "2026-03-21T21:19:30.758Z",
+        "action": "refresh",
+        "trigger": "startup",
         "outcome": "success",
-        "detail": "Synced 3 changed files."
+        "detail": "Remote state refreshed on startup."
       },
       {
-        "id": "1774127099754-av4lkj",
-        "occurredAt": "2026-03-21T21:04:59.754Z",
-        "action": "sync",
-        "trigger": "manual",
+        "id": "1774127730426-yeqkon",
+        "action": "refresh",
+        "trigger": "startup",
         "outcome": "success",
-        "detail": "Synced 3 changed files."
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T21:15:30.426Z"
       },
       {
-        "id": "1774127050925-d64rtf",
-        "occurredAt": "2026-03-21T21:04:10.925Z",
+        "id": "1774127682888-ngu90f",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T21:14:42.888Z"
+      },
+      {
+        "id": "1774127347848-qj1u2x",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T21:09:07.848Z"
+      },
+      {
+        "id": "1774127182715-z8pgw0",
         "action": "sync",
         "trigger": "debounce",
         "outcome": "success",
-        "detail": "Synced 1 changed file."
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T21:06:22.715Z"
       },
       {
-        "id": "1774127044390-6dof4c",
-        "occurredAt": "2026-03-21T21:04:04.390Z",
+        "id": "1774127145635-d515pd",
         "action": "sync",
         "trigger": "manual",
         "outcome": "success",
-        "detail": "Synced 2 changed files."
+        "detail": "Synced 3 changed files.",
+        "occurredAt": "2026-03-21T21:05:45.635Z"
+      },
+      {
+        "id": "1774127099754-av4lkj",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 3 changed files.",
+        "occurredAt": "2026-03-21T21:04:59.754Z"
+      },
+      {
+        "id": "1774127050925-d64rtf",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T21:04:10.925Z"
+      },
+      {
+        "id": "1774127044390-6dof4c",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T21:04:04.390Z"
       },
       {
         "id": "1774126152480-l2h2iq",
