@@ -156,15 +156,39 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:23:16.204Z",
+    "lastSyncedAt": "2026-03-21T22:25:10.788Z",
     "syncEvents": [
       {
-        "id": "1774131858964-ocw91f",
-        "occurredAt": "2026-03-21T22:24:18.964Z",
+        "id": "1774132086910-3sx1nr",
+        "occurredAt": "2026-03-21T22:28:06.910Z",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed."
+      },
+      {
+        "id": "1774131994485-5pwzcn",
+        "occurredAt": "2026-03-21T22:26:34.485Z",
         "action": "refresh",
         "trigger": "startup",
         "outcome": "success",
         "detail": "Remote state refreshed on startup."
+      },
+      {
+        "id": "1774131910789-35vn4i",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T22:25:10.789Z"
+      },
+      {
+        "id": "1774131858964-ocw91f",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T22:24:18.964Z"
       },
       {
         "id": "1774131796204-q88ntz",
@@ -333,30 +357,6 @@
         "outcome": "success",
         "detail": "Synced 1 changed file.",
         "occurredAt": "2026-03-21T21:06:22.715Z"
-      },
-      {
-        "id": "1774127145635-d515pd",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 3 changed files.",
-        "occurredAt": "2026-03-21T21:05:45.635Z"
-      },
-      {
-        "id": "1774127099754-av4lkj",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 3 changed files.",
-        "occurredAt": "2026-03-21T21:04:59.754Z"
-      },
-      {
-        "id": "1774127050925-d64rtf",
-        "action": "sync",
-        "trigger": "debounce",
-        "outcome": "success",
-        "detail": "Synced 1 changed file.",
-        "occurredAt": "2026-03-21T21:04:10.925Z"
       }
     ]
   }
