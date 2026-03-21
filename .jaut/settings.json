@@ -156,8 +156,24 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T23:05:10.905Z",
+    "lastSyncedAt": "2026-03-21T23:06:02.004Z",
     "syncEvents": [
+      {
+        "id": "1774134409376-6jiflz",
+        "occurredAt": "2026-03-21T23:06:49.376Z",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed."
+      },
+      {
+        "id": "1774134362005-3g4s8s",
+        "occurredAt": "2026-03-21T23:06:02.005Z",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 2 changed files."
+      },
       {
         "id": "1774134310907-y0gr8z",
         "occurredAt": "2026-03-21T23:05:10.907Z",
@@ -341,22 +357,6 @@
         "outcome": "success",
         "detail": "Remote state refreshed on startup.",
         "occurredAt": "2026-03-21T22:26:34.485Z"
-      },
-      {
-        "id": "1774131910789-35vn4i",
-        "action": "sync",
-        "trigger": "debounce",
-        "outcome": "success",
-        "detail": "Synced 2 changed files.",
-        "occurredAt": "2026-03-21T22:25:10.789Z"
-      },
-      {
-        "id": "1774131858964-ocw91f",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T22:24:18.964Z"
       }
     ]
   }
