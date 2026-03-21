@@ -1,0 +1,11 @@
+---
+id: 46f5d444-b832-4fbc-9169-4a503b9a713e
+title: Quick Tips for Nailing Your Proposal  1. Think about timing. Golden hour—about an hour before sunset—is usually the best light for photos. If that doesn’t work, right after sunrise can be beautiful and quiet too.  2. Plan out the “where” and “how.” We’ll talk through the exact spot, where you’ll stand, and how I’ll stay hidden without being awkward. I’ll help you pick a location that fits your story and photographs well.  3. Dress like it matters (because it does). You don’t need to be super formal, but looking put together makes the photos that much better. I can send outfit ideas for both of you so you’re not guessing day-of.  4. Hire a photographer (hi, that’s me 👋). This is not an “ask your buddy to hide in the bushes with an iPhone” kind of moment. Professional photos mean you’ll be able to relive the moment, frame it, and share it with friends and family.
+created_at: 2026-02-17T23:21:18.500Z
+datetime: 2026-02-17T23:21:18.500Z
+tags: []
+context: {"deviceName":"Emmanuels-MacBook-Pro.local","hostname":"Emmanuels-MacBook-Pro.local","activeApp":"Google Chrome","timeOfDay":"evening","timestamp":"2026-02-17T23:21:18.501Z"}
+aiMetadata: {"topics":["relationships"],"universals":["actionable","reference","idea","reflection","question"],"confidence":0.9974297322525161,"keywords":["photos","hour","moment","quick","tips"],"modelVersion":"distilbert-mnli","processedAt":"2026-02-17T23:21:22.474Z"}
+---
+
+Quick Tips for Nailing Your Proposal  1. Think about timing. Golden hour—about an hour before sunset—is usually the best light for photos. If that doesn’t work, right after sunrise can be beautiful and quiet too.  2. Plan out the “where” and “how.” We’ll talk through the exact spot, where you’ll stand, and how I’ll stay hidden without being awkward. I’ll help you pick a location that fits your story and photographs well.  3. Dress like it matters (because it does). You don’t need to be super formal, but looking put together makes the photos that much better. I can send outfit ideas for both of you so you’re not guessing day-of.  4. Hire a photographer (hi, that’s me 👋). This is not an “ask your buddy to hide in the bushes with an iPhone” kind of moment. Professional photos mean you’ll be able to relive the moment, frame it, and share it with friends and family.

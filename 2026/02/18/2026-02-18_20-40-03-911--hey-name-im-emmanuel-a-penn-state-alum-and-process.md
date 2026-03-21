@@ -1,0 +1,11 @@
+---
+id: 5757fbb6-4f22-43af-b900-45727dacabbe
+title: Hey [Name],  I’m Emmanuel, a Penn State alum and Process Engineer here in York. I’ve been following [Their Business Name] and love what you’re doing with [Specific Project/Post].  I noticed your current site is a bit slow on mobile (it takes about [X] seconds to load). In today's world, that’s where you lose 40% of your potential leads.  I’m launching a new digital agency focused on 'High-Performance' sites for local contractors. I spent 20 minutes building a 'Svelte' version of your homepage—it loads instantly and looks like this: [ATTACH SCREENSHOT].  No sales pitch right now—just wanted to show you what’s possible with modern tech. If you ever want to beat the local competition on Google speed rankings, I’d love to help a fellow [Lion/Contractor] out.  Best, Emmanuel
+created_at: 2026-02-19T01:40:03.914Z
+datetime: 2026-02-19T01:40:03.914Z
+tags: []
+context: {"deviceName":"Emmanuels-MacBook-Pro.local","hostname":"Emmanuels-MacBook-Pro.local","activeApp":"Google Chrome","timeOfDay":"evening","timestamp":"2026-02-19T01:40:03.917Z"}
+aiMetadata: {"topics":["relationships"],"universals":["actionable","reference","idea","reflection","question"],"confidence":0.9995982743165528,"keywords":["name","emmanuel","love","local","penn"],"modelVersion":"distilbert-mnli","processedAt":"2026-02-19T01:40:10.233Z"}
+---
+
+Hey [Name],  I’m Emmanuel, a Penn State alum and Process Engineer here in York. I’ve been following [Their Business Name] and love what you’re doing with [Specific Project/Post].  I noticed your current site is a bit slow on mobile (it takes about [X] seconds to load). In today's world, that’s where you lose 40% of your potential leads.  I’m launching a new digital agency focused on 'High-Performance' sites for local contractors. I spent 20 minutes building a 'Svelte' version of your homepage—it loads instantly and looks like this: [ATTACH SCREENSHOT].  No sales pitch right now—just wanted to show you what’s possible with modern tech. If you ever want to beat the local competition on Google speed rankings, I’d love to help a fellow [Lion/Contractor] out.  Best, Emmanuel

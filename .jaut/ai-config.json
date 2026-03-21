@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "lastModified": "2026-02-01T05:00:11.215Z",
+  "model": {
+    "mode": "zero-shot",
+    "zeroShot": {
+      "tier": "premium",
+      "multiLabel": true
+    },
+    "embeddings": {
+      "tier": "base",
+      "similarityThreshold": 0.15
+    }
+  },
+  "thresholds": {
+    "topicMin": 0.6,
+    "universalMin": 0.7,
+    "suggestionMin": 0.7
+  },
+  "scoring": {
+    "directMatch": 0.7,
+    "relatedBase": 0.3,
+    "relatedBoost": 0.2,
+    "maxBoost": 0.9
+  },
+  "topicDescriptions": {
+    "work": "professional work, job, office, meetings, colleagues, projects, deadlines, business, career, employment, corporate, boss, clients, email, presentation, team, workplace",
+    "side-projects": "side projects, hobbies, personal projects, building apps, coding for fun, startup, mvp, prototype, passion projects, creative endeavors, app development, indie",
+    "learning": "learning, studying, education, courses, tutorials, skills, knowledge, books, practice, understanding, school, teaching, course, study, lesson, training",
+    "health": "health, fitness, exercise, running, gym, wellness, diet, sleep, medical, body, physical activity, sports, workout, run, morning routine, yoga, nutrition",
+    "relationships": "relationships, family, friends, partner, marriage, dating, social, people, connection, love, communication, support, community",
+    "faith": "faith, religion, spirituality, prayer, church, meditation, beliefs, God, worship, scripture, spiritual growth, gratitude, purpose",
+    "finances": "finances, money, budget, investing, savings, expenses, income, financial planning, wealth, banking, stocks, retirement, taxes, debt",
+    "creativity": "creativity, art, design, writing, music, crafts, imagination, creative process, artistic, inspiration, expression, making things"
+  },
+  "universalDescriptions": {
+    "actionable": "tasks, todos, action items, things to do, deadlines, reminders, follow up, need to, must do, should, goal, TODO, urgent",
+    "reference": "reference information, links, quotes, knowledge, documentation, remember, note this, definition, explained, for future reference",
+    "idea": "ideas, brainstorming, possibilities, what if, imagination, creativity, could be, maybe, concept, thought experiment, possibility",
+    "reflection": "reflection, looking back, lessons learned, personal growth, insights, realized, grateful, i felt, i noticed, understanding myself, hindsight",
+    "question": "questions, wondering, curiosity, things to figure out, uncertainties, why, how, what, confused, unsure, research, need to understand"
+  },
+  "relatedTerms": {
+    "work": [
+      "meeting",
+      "project",
+      "deadline",
+      "team",
+      "client",
+      "email",
+      "presentation",
+      "office",
+      "colleague",
+      "manager",
+      "boss",
+      "report"
+    ],
+    "side-projects": [
+      "app",
+      "build",
+      "code",
+      "ship",
+      "launch",
+      "mvp",
+      "prototype",
+      "feature",
+      "bug",
+      "deploy"
+    ],
+    "learning": [
+      "study",
+      "course",
+      "tutorial",
+      "book",
+      "lesson",
+      "practice",
+      "understand",
+      "skill",
+      "knowledge"
+    ],
+    "health": [
+      "exercise",
+      "run",
+      "gym",
+      "workout",
+      "sleep",
+      "diet",
+      "nutrition",
+      "yoga",
+      "meditation",
+      "doctor"
+    ],
+    "relationships": [
+      "family",
+      "friend",
+      "partner",
+      "date",
+      "call",
+      "visit",
+      "talk",
+      "support",
+      "love"
+    ],
+    "faith": [
+      "prayer",
+      "church",
+      "scripture",
+      "meditation",
+      "worship",
+      "grateful",
+      "blessing",
+      "spiritual"
+    ],
+    "finances": [
+      "budget",
+      "save",
+      "invest",
+      "spend",
+      "money",
+      "bank",
+      "expense",
+      "income",
+      "tax"
+    ],
+    "creativity": [
+      "create",
+      "design",
+      "art",
+      "write",
+      "music",
+      "draw",
+      "paint",
+      "craft",
+      "inspire"
+    ]
+  },
+  "queue": {
+    "maxSize": 100,
+    "maxRetries": 3,
+    "idleTimeoutMs": 300000
+  },
+  "experimental": {
+    "debugLogging": false,
+    "cacheEmbeddings": false
+  }
+}
