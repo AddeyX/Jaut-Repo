@@ -156,8 +156,16 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:19:55.742Z",
+    "lastSyncedAt": "2026-03-21T22:20:24.501Z",
     "syncEvents": [
+      {
+        "id": "1774131624502-bl3fzx",
+        "occurredAt": "2026-03-21T22:20:24.502Z",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 2 changed files."
+      },
       {
         "id": "1774131595743-chtmjd",
         "occurredAt": "2026-03-21T22:19:55.743Z",
@@ -349,14 +357,6 @@
         "outcome": "error",
         "detail": "Could not find 2026/03/21/2026-03-21_15-08-17-831--test.md.",
         "occurredAt": "2026-03-21T20:23:11.564Z"
-      },
-      {
-        "id": "1774124588374-lbwmtd",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "error",
-        "detail": "Could not find 2026/03/21/2026-03-21_15-08-17-831--test.md.",
-        "occurredAt": "2026-03-21T20:23:08.374Z"
       }
     ]
   }
