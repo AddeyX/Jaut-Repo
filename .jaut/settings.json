@@ -156,8 +156,16 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:22:01.284Z",
+    "lastSyncedAt": "2026-03-21T22:22:40.259Z",
     "syncEvents": [
+      {
+        "id": "1774131760261-91m8dm",
+        "occurredAt": "2026-03-21T22:22:40.261Z",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 2 changed files."
+      },
       {
         "id": "1774131754215-ymtb6v",
         "occurredAt": "2026-03-21T22:22:34.215Z",
@@ -349,14 +357,6 @@
         "outcome": "success",
         "detail": "Synced 2 changed files.",
         "occurredAt": "2026-03-21T20:49:12.481Z"
-      },
-      {
-        "id": "1774125650397-fuzvpz",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T20:40:50.397Z"
       }
     ]
   }
