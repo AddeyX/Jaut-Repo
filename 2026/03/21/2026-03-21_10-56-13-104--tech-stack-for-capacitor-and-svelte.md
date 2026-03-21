@@ -42,7 +42,3 @@ For tips and community discussions, refer to these posts:
 - [Svelte + capacitor reddit post](https://www.reddit.com/r/sveltejs/comments/1mk05ym/mobile_app_made_with_svelte_5_capacitor/) 
 
 This stack will provide a solid foundation for building your mobile application with enhanced user experience and performance.
-
-
-
-WHATTT
