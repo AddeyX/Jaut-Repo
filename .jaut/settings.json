@@ -156,55 +156,71 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:20:24.501Z",
+    "lastSyncedAt": "2026-03-21T22:21:05.179Z",
     "syncEvents": [
       {
-        "id": "1774131624502-bl3fzx",
-        "occurredAt": "2026-03-21T22:20:24.502Z",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 2 changed files."
-      },
-      {
-        "id": "1774131595743-chtmjd",
-        "occurredAt": "2026-03-21T22:19:55.743Z",
-        "action": "sync",
-        "trigger": "debounce",
-        "outcome": "success",
-        "detail": "Synced 1 changed file."
-      },
-      {
-        "id": "1774131553216-m1j91g",
-        "occurredAt": "2026-03-21T22:19:13.216Z",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 2 changed files."
-      },
-      {
-        "id": "1774131532429-v51aj6",
-        "occurredAt": "2026-03-21T22:18:52.429Z",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 1 changed file."
-      },
-      {
-        "id": "1774129456253-sls4ad",
-        "occurredAt": "2026-03-21T21:44:16.253Z",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 1 changed file."
-      },
-      {
-        "id": "1774129392593-hzl5uq",
-        "occurredAt": "2026-03-21T21:43:12.593Z",
+        "id": "1774131687364-8pw79p",
+        "occurredAt": "2026-03-21T22:21:27.364Z",
         "action": "refresh",
         "trigger": "startup",
         "outcome": "success",
         "detail": "Remote state refreshed on startup."
+      },
+      {
+        "id": "1774131665180-3rkedh",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T22:21:05.180Z"
+      },
+      {
+        "id": "1774131624502-bl3fzx",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T22:20:24.502Z"
+      },
+      {
+        "id": "1774131595743-chtmjd",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T22:19:55.743Z"
+      },
+      {
+        "id": "1774131553216-m1j91g",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T22:19:13.216Z"
+      },
+      {
+        "id": "1774131532429-v51aj6",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T22:18:52.429Z"
+      },
+      {
+        "id": "1774129456253-sls4ad",
+        "action": "sync",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Synced 1 changed file.",
+        "occurredAt": "2026-03-21T21:44:16.253Z"
+      },
+      {
+        "id": "1774129392593-hzl5uq",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T21:43:12.593Z"
       },
       {
         "id": "1774128044839-nryv5p",
@@ -341,22 +357,6 @@
         "outcome": "success",
         "detail": "Synced 5 changed files.",
         "occurredAt": "2026-03-21T20:27:06.493Z"
-      },
-      {
-        "id": "1774124772651-pzxp10",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T20:26:12.651Z"
-      },
-      {
-        "id": "1774124591564-93zfai",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "error",
-        "detail": "Could not find 2026/03/21/2026-03-21_15-08-17-831--test.md.",
-        "occurredAt": "2026-03-21T20:23:11.564Z"
       }
     ]
   }
