@@ -156,23 +156,39 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:25:10.788Z",
+    "lastSyncedAt": "2026-03-21T22:29:32.028Z",
     "syncEvents": [
       {
-        "id": "1774132086910-3sx1nr",
-        "occurredAt": "2026-03-21T22:28:06.910Z",
-        "action": "refresh",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Remote state refreshed."
-      },
-      {
-        "id": "1774131994485-5pwzcn",
-        "occurredAt": "2026-03-21T22:26:34.485Z",
+        "id": "1774132298537-v0tky5",
+        "occurredAt": "2026-03-21T22:31:38.537Z",
         "action": "refresh",
         "trigger": "startup",
         "outcome": "success",
         "detail": "Remote state refreshed on startup."
+      },
+      {
+        "id": "1774132172030-vsdgbs",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T22:29:32.030Z"
+      },
+      {
+        "id": "1774132086910-3sx1nr",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T22:28:06.910Z"
+      },
+      {
+        "id": "1774131994485-5pwzcn",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T22:26:34.485Z"
       },
       {
         "id": "1774131910789-35vn4i",
@@ -341,22 +357,6 @@
         "outcome": "success",
         "detail": "Remote state refreshed on startup.",
         "occurredAt": "2026-03-21T21:14:42.888Z"
-      },
-      {
-        "id": "1774127347848-qj1u2x",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T21:09:07.848Z"
-      },
-      {
-        "id": "1774127182715-z8pgw0",
-        "action": "sync",
-        "trigger": "debounce",
-        "outcome": "success",
-        "detail": "Synced 1 changed file.",
-        "occurredAt": "2026-03-21T21:06:22.715Z"
       }
     ]
   }
