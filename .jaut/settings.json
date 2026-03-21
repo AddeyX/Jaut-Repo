@@ -156,15 +156,79 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T22:29:32.028Z",
+    "lastSyncedAt": "2026-03-21T22:32:38.228Z",
     "syncEvents": [
       {
-        "id": "1774132298537-v0tky5",
-        "occurredAt": "2026-03-21T22:31:38.537Z",
+        "id": "1774132926388-ylkfyt",
+        "occurredAt": "2026-03-21T22:42:06.388Z",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed."
+      },
+      {
+        "id": "1774132916471-n0f65h",
+        "occurredAt": "2026-03-21T22:41:56.471Z",
         "action": "refresh",
         "trigger": "startup",
         "outcome": "success",
         "detail": "Remote state refreshed on startup."
+      },
+      {
+        "id": "1774132890962-muw2ni",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T22:41:30.962Z"
+      },
+      {
+        "id": "1774132890123-0j5sjb",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T22:41:30.123Z"
+      },
+      {
+        "id": "1774132889346-oexmop",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T22:41:29.346Z"
+      },
+      {
+        "id": "1774132887940-1i9zwg",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T22:41:27.940Z"
+      },
+      {
+        "id": "1774132774171-8a5kua",
+        "action": "refresh",
+        "trigger": "manual",
+        "outcome": "success",
+        "detail": "Remote state refreshed.",
+        "occurredAt": "2026-03-21T22:39:34.171Z"
+      },
+      {
+        "id": "1774132358230-zvpwqg",
+        "action": "sync",
+        "trigger": "debounce",
+        "outcome": "success",
+        "detail": "Synced 2 changed files.",
+        "occurredAt": "2026-03-21T22:32:38.230Z"
+      },
+      {
+        "id": "1774132298537-v0tky5",
+        "action": "refresh",
+        "trigger": "startup",
+        "outcome": "success",
+        "detail": "Remote state refreshed on startup.",
+        "occurredAt": "2026-03-21T22:31:38.537Z"
       },
       {
         "id": "1774132172030-vsdgbs",
@@ -293,70 +357,6 @@
         "outcome": "success",
         "detail": "Synced 1 changed file.",
         "occurredAt": "2026-03-21T21:44:16.253Z"
-      },
-      {
-        "id": "1774129392593-hzl5uq",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T21:43:12.593Z"
-      },
-      {
-        "id": "1774128044839-nryv5p",
-        "action": "sync",
-        "trigger": "debounce",
-        "outcome": "success",
-        "detail": "Synced 1 changed file.",
-        "occurredAt": "2026-03-21T21:20:44.839Z"
-      },
-      {
-        "id": "1774128037111-gahzjz",
-        "action": "refresh",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Remote state refreshed.",
-        "occurredAt": "2026-03-21T21:20:37.111Z"
-      },
-      {
-        "id": "1774128035835-15pkm6",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 2 changed files.",
-        "occurredAt": "2026-03-21T21:20:35.835Z"
-      },
-      {
-        "id": "1774127980338-85gkvt",
-        "action": "sync",
-        "trigger": "manual",
-        "outcome": "success",
-        "detail": "Synced 1 changed file.",
-        "occurredAt": "2026-03-21T21:19:40.338Z"
-      },
-      {
-        "id": "1774127970758-1wjvkv",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T21:19:30.758Z"
-      },
-      {
-        "id": "1774127730426-yeqkon",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T21:15:30.426Z"
-      },
-      {
-        "id": "1774127682888-ngu90f",
-        "action": "refresh",
-        "trigger": "startup",
-        "outcome": "success",
-        "detail": "Remote state refreshed on startup.",
-        "occurredAt": "2026-03-21T21:14:42.888Z"
       }
     ]
   }
