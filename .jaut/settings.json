@@ -29,7 +29,7 @@
     "createdAt": "2026-02-01T04:36:12.040Z",
     "updatedAt": "2026-03-20T11:26:12.934Z"
   },
-  "theme": "cyberpunk-neon",
+  "theme": "dark",
   "customThemes": [
     {
       "id": "jaut-brand",
@@ -156,6 +156,7 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-21T23:31:05.658Z"
+    "lastSyncedAt": "2026-03-21T23:44:17.120Z",
+    "lastError": "Could not find 2026/03/21/2026-03-21_19-44-09-004--i-like-chicken.md."
   }
 }
