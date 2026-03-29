@@ -27,9 +27,9 @@
     "reflectionTime": "20:00",
     "timezone": "America/New_York",
     "createdAt": "2026-02-01T04:36:12.040Z",
-    "updatedAt": "2026-03-20T11:26:12.934Z"
+    "updatedAt": "2026-03-27T01:00:06.295Z"
   },
-  "theme": "cyberpunk-neon",
+  "theme": "jaut-brand",
   "customThemes": [
     {
       "id": "jaut-brand",
@@ -67,44 +67,6 @@
         "sidebarBorder": "rgba(30, 41, 59, 0.4)",
         "sidebarRing": "#3b82f6",
         "dialogOverlay": "rgba(3, 7, 18, 0.95)"
-      }
-    },
-    {
-      "id": "jaut-blackcherry",
-      "name": "Jaut Blackcherry",
-      "version": "1.0.0",
-      "author": "Jaut Team",
-      "isBuiltIn": false,
-      "colors": {
-        "background": "#1a0a0a",
-        "backgroundDarker": "#0f0505",
-        "backgroundLighter": "#2a1212",
-        "foreground": "#f5e6e6",
-        "card": "#241010",
-        "cardForeground": "#f5e6e6",
-        "popover": "#241010",
-        "popoverForeground": "#f5e6e6",
-        "primary": "#c9a0a0",
-        "primaryForeground": "#1a0a0a",
-        "secondary": "#3d1c1c",
-        "secondaryForeground": "#f5e6e6",
-        "muted": "#2a1515",
-        "mutedForeground": "#a08080",
-        "accent": "#3d1c1c",
-        "accentForeground": "#f5e6e6",
-        "destructive": "#ef4444",
-        "border": "rgba(77, 38, 38, 0.6)",
-        "input": "rgba(77, 38, 38, 0.8)",
-        "ring": "#8b5a5a",
-        "sidebar": "#0f0505",
-        "sidebarForeground": "#c9a0a0",
-        "sidebarPrimary": "#e8c4c4",
-        "sidebarPrimaryForeground": "#1a0a0a",
-        "sidebarAccent": "#2a1515",
-        "sidebarAccentForeground": "#f5e6e6",
-        "sidebarBorder": "rgba(77, 38, 38, 0.4)",
-        "sidebarRing": "#8b5a5a",
-        "dialogOverlay": "rgba(15, 5, 5, 0.85)"
       }
     },
     {
@@ -156,6 +118,6 @@
     "username": "AddeyX",
     "authorName": "AddeyX",
     "authorEmail": "manny4u67@gmail.com",
-    "lastSyncedAt": "2026-03-23T04:06:22.219Z"
+    "lastSyncedAt": "2026-03-23T04:22:55.033Z"
   }
 }

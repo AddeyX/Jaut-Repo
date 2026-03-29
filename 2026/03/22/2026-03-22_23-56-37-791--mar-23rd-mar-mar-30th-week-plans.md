@@ -2,7 +2,7 @@
 id: 92b20f6f-b54a-47cd-8fd7-59cd880c5161
 title: Mar 23rd - Mar Mar 30th Week plans
 created_at: 2026-03-23T03:56:37.791Z
-datetime: 2026-03-23T04:16:36.107Z
+datetime: 2026-03-26T04:26:56.047Z
 tags: []
 context: {"deviceName":"Emmanuels-MacBook-Pro.local","hostname":"Emmanuels-MacBook-Pro.local","activeApp":"Jaut","timeOfDay":"night","timestamp":"2026-03-23T03:56:37.794Z"}
 ---
@@ -48,7 +48,4 @@ Monday
 6 - 9 Work on application development
 9 - 9:30 Read a christ centered book and write notes 
 9:30 - 10:30 Create a quick script and record a video in flowly
-10:30 - 11:30 Start to wind down and relax a bit 
-
-
-
+10:30 - 11:30 Start to wind down and relax a bit

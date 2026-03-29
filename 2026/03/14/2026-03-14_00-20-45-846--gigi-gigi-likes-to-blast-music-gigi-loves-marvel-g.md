@@ -2,7 +2,7 @@
 id: 7e4c6dfe-5deb-45e1-9342-e249e6789069
 title: Gigi likes
 created_at: 2026-03-14T04:20:45.846Z
-datetime: 2026-03-14T04:29:08.800Z
+datetime: 2026-03-26T04:29:31.421Z
 tags: ["-fav-Gigi"]
 context: {"deviceName":"Emmanuels-MacBook-Pro.local","hostname":"Emmanuels-MacBook-Pro.local","activeApp":"Notes","timeOfDay":"night","timestamp":"2026-03-14T04:20:45.849Z"}
 ---
@@ -19,4 +19,5 @@ context: {"deviceName":"Emmanuels-MacBook-Pro.local","hostname":"Emmanuels-MacBo
 - Gigi likes reading Genesis 
 - Gigi loves Olive Garden and Longhorn 
 - Gigi love lemonade or sprite or pina colada
-- - Gigi likes fairness  Cherry Blossoms  Beautiful hidden Gem to make it our home Graduation Party  Garden Place
+- - Gigi likes fairness  Cherry Blossoms  
+- Beautiful hidden Gem to make it our home Graduation Party  Garden Place

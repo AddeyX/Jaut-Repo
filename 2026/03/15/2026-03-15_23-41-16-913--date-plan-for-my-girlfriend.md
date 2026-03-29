@@ -2,8 +2,8 @@
 id: 14781829-8514-48ad-9afa-9f759e02c574
 title: Date Plan for My Girlfriend
 created_at: 2026-03-16T03:41:16.913Z
-datetime: 2026-03-16T03:42:05.604Z
-tags: []
+datetime: 2026-03-24T22:07:15.329Z
+tags: ["-exp"]
 exploreGeneration: {"action":"freeform","prompt":"generate me a date plane for my girlfriend","sourceNoteIds":["0f627c05-a0f6-45e9-85d3-d884b7a9e879"],"generatedAt":"2026-03-16T03:41:11.543Z","model":"gpt-4o-mini","provider":"openai","version":"explore-v1"}
 ---
 
