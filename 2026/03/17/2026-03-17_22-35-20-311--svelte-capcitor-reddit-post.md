@@ -2,7 +2,7 @@
 id: aa76377f-2ec5-456b-ad7d-8473a7d6119a
 title: Svelte + capcitor reddit post
 created_at: 2026-03-18T02:35:20.315Z
-datetime: 2026-03-18T02:35:20.315Z
+datetime: 2026-04-01T21:47:00.861Z
 tags: []
 context: {"deviceName":"Emmanuels-MacBook-Pro.local","hostname":"Emmanuels-MacBook-Pro.local","activeApp":"Google Chrome","timeOfDay":"night","timestamp":"2026-03-18T02:35:20.334Z"}
 ---
